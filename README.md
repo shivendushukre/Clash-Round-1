@@ -8,7 +8,7 @@ MCQ Platform based on the theme, Vision. It was built to test the logical aptitu
 
 ### 1) Clone the project onto your local machine.
 
-	git clone https://github.com/meghadandapat/Clash-Round-1.git
+	git clone https://github.com/shivendushukre/Clash-Round-1.git
 
 ### 2) Create a virtual environment and install the required packages.
 
@@ -19,7 +19,7 @@ create a virtual envirnoment:
 
 activate this virtual envirnoment:
 
-	cd clashvenv/Scripts/activate
+	venv\Scripts\activate
 
 installing all required packages which are present in requirement.txt:
 
