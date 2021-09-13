@@ -15,7 +15,7 @@ MCQ Platform based on the theme, Vision. It was built to test the logical aptitu
 
 create a virtual envirnoment:
 
-	python3 -m venv clashvenv
+	virtualvenv venv
 
 activate this virtual envirnoment:
 
@@ -23,7 +23,7 @@ activate this virtual envirnoment:
 
 installing all required packages which are present in requirement.txt:
 
-	python -m pip install -r requirements.txt
+	pip install -r requirements.txt
 
 ### 3) Start the development server:
 
